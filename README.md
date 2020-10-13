@@ -1,1 +1,1 @@
-# datatypefinder
+# DATA TYPE FINDER
